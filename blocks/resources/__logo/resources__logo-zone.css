@@ -1,0 +1,25 @@
+.resources__logo-zone {
+    width: 1100px;
+    margin: 80px auto 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 155px;
+    align-content: space-between;
+  }
+
+.resources__logo_tedED{
+    background-image: url(../logo/resources-tedED.png);
+  }
+  
+.resources__logo_medium{
+    background-image: url(../logo/resources-Medium.png);
+  }
+  
+.resources__logo_dezeen{
+    background-image: url(../logo/resources-dezeen.png);
+  }
+  
+.resources__logo_goodreads{
+    background-image: url(../logo/resources-goodreads.png);
+  }
